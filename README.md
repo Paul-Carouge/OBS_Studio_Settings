@@ -1,6 +1,6 @@
 ![Bannière Obs Studio](Screenshots/Banner.png)
 
-# Table of Contents
+# Table of Contents / Sommaire
 * [🇬🇧 English](#-english)
     * [Local Recording Configuration](#local-recording-configuration)
     * [YouTube Streaming Configuration](#-youtube--youtube-streaming-configuration)
