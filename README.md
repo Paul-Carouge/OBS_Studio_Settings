@@ -24,7 +24,7 @@ Use this profile to create high-quality source files, perfect for video editing.
 
 ---
 
-## YouTube Streaming Configuration
+## <img src="Screenshots/youtube.png" alt="Youtube Logo" width="22"/>   YouTube Streaming Configuration
 Use this profile for a stable, fluid, and high-quality live stream, optimized for the platform and your fiber connection.
 
 | Section | OBS Parameter | Recommended Setting | Reason |
@@ -38,6 +38,20 @@ Use this profile for a stable, fluid, and high-quality live stream, optimized fo
 | | Output (Scaled) Resolution | **1920x1080** | Final stream resolution (1080p). |
 | | Downscale Filter | **Lanczos (36 Samples)** | Best algorithm for sharp scaling down from 1440p to 1080p. |
 | | FPS | **60** | Maximum stream fluidity. |
+
+---
+
+## <img src="Screenshots/twitch.png" alt="Twitch Logo" width="22"/>   Twitch Streaming Configuration
+Use this profile for a stable, fluid, and high-quality live stream, optimized for the platform and your fiber connection.
+
+| Section | OBS Parameter | Recommended Setting | Reason |
+| :--- | :--- | :--- | :--- |
+| **Output (Streaming)** | Video Encoder | **NVIDIA NVENC H.264** | Standard required by Twitch. |
+| | Rate Control | **CBR** (Constant Bitrate) | **Mandatory** for stability. |
+| | Bitrate | **7500 - 8000 Kbps** | **Twitch officially limits to 6000 Kbps**, but often accepts up to 8000 Kbps for the best encoders. Use the maximum to reduce artifacts. |
+| | Preset | **P6: Slow (Best Quality)** | Maximizes H.264 encoding quality. |
+| | Max B-frames | **2** | Recommended by Twitch. |
+| **Video** | Output (Scaled) Resolution | **1920x1080** | Final stream resolution (1080p). |
 
 ---
 
@@ -65,8 +79,7 @@ Utilisez ce profil pour créer des fichiers sources de haute qualité, parfaits 
 
 ---
 
-## Configuration de Streaming YouTube
-
+## <img src="Screenshots/youtube.png" alt="Youtube Logo" width="22"/>   Configuration de Streaming YouTube
 Utilisez ce profil pour un direct stable, fluide et de haute qualité, optimisé pour la plateforme et votre connexion fibre.
 
 | Section | Paramètre OBS | Réglage Recommandé | Raison |
@@ -80,6 +93,20 @@ Utilisez ce profil pour un direct stable, fluide et de haute qualité, optimisé
 | | Résolution de Sortie (Mise à l'échelle) | **1920x1080** | Résolution finale du stream (1080p). |
 | | Filtre de Mise à l'échelle | **Lanczos (36 échantillons)** | Meilleur algorithme pour une réduction de 1440p à 1080p avec netteté. |
 | | IPS | **60** | Fluidité maximale du stream. |
+
+---
+
+## <img src="Screenshots/twitch.png" alt="Twitch Logo" width="22"/>   Configuration de Streaming Twitch
+Utilisez ce profil pour un direct stable, fluide et de haute qualité, optimisé pour la plateforme et votre connexion fibre.
+
+| Section | Paramètre OBS | Réglage Recommandé | Raison |
+| :--- | :--- | :--- | :--- |
+| **Sortie (Streaming)** | Encodeur Vidéo | **NVIDIA NVENC H.264** | Standard requis par Twitch. |
+| | Contrôle du débit | **CBR** (Constant Bitrate) | **Obligatoire** pour la stabilité. |
+| | Débit | **7500 - 8000 Kbps** | **Twitch limite officiellement à 6000 Kbps**, mais accepte souvent jusqu'à 8000 Kbps pour les meilleurs encodeurs. Utiliser le maximum pour réduire les artefacts. |
+| | Pré-réglage | **P6 : Plus lent (Meilleure qualité)** | Maximise la qualité de l'encodage H.264. |
+| | Max B-frames | **2** | Recommandé par Twitch. |
+| **Vidéo** | Résolution de Sortie (Mise à l'échelle) | **1920x1080** | Résolution finale du stream (1080p). |
 
 ---
 
