@@ -1,5 +1,21 @@
 ![Bannière Obs Studio](Screenshots/Banner.png)
 
+# Table of Contents
+* [🇬🇧 English](#-english)
+    * [Local Recording Configuration](#local-recording-configuration)
+    * [YouTube Streaming Configuration](#-youtube--youtube-streaming-configuration)
+    * [Twitch Streaming Configuration](#-twitch--twitch-streaming-configuration)
+    * [Need Help or Want to Contribute?](#-need-help-or-want-to-contribute)
+    * [Support the Project!](#-support-the-project)
+* [🇫🇷 Français](#-français)
+    * [Configuration d'Enregistrement Local](#configuration-denregistrement-local)
+    * [Configuration de Streaming YouTube](#-youtube--configuration-de-streaming-youtube)
+    * [Configuration de Streaming Twitch](#-twitch--configuration-de-streaming-twitch)
+    * [Des questions ou des problèmes ?](#-des-questions-ou-des-problèmes-)
+    * [Soutenez le projet !](#-soutenez-le-projet-)
+
+---
+
 # 🇬🇧 English
 **Please leave a ⭐ to this repository !**
 
