@@ -82,3 +82,30 @@ Utilisez ce profil pour un direct stable, fluide et de haute qualité, optimisé
 | | IPS | **60** | Fluidité maximale du stream. |
 
 ---
+
+## 🇬🇧 Need Help or Want to Contribute?
+
+### ❓ Questions or Issues?
+
+If you encounter any difficulties with these settings or have suggestions for improvement, please feel free to open an issue on this repository:
+
+➡️ **[Open a new Issue here](https://github.com/Paul-Carouge/OBS_Studio_Settings/issues)**
+
+---
+### ⭐ Support the Project!
+
+If these configurations were helpful to you, please consider starring ⭐ this repository to show your support.
+
+---
+## ❓ Des questions ou des problèmes ?
+
+Si vous rencontrez des difficultés avec ces paramètres ou si vous avez des suggestions d'amélioration, n'hésitez pas à ouvrir un ticket (Issue) sur ce dépôt :
+
+➡️ **[Ouvrir un nouveau Issue ici](https://github.com/Paul-Carouge/OBS_Studio_Settings/issues)**
+
+---
+## ⭐ Soutenez le projet !
+
+Si ces configurations vous ont été utiles, veuillez considérer donner une étoile ⭐ à ce dépôt pour le soutenir.
+
+---
